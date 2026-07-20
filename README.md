@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balogun Akeem Abiola</h1>
-<h3 align="center">Backend-focused Software Engineer · Node.js / NestJS / TypeScript · Lagos, Nigeria 🇳🇬</h3>
-
+<h3 align="center">Backend-focused Software Engineer · Node.js / NestJS / TypeScript · Currently Learning Go (Golang) · Lagos, Nigeria 🇳🇬</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/abiola-balogun-jsdev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
