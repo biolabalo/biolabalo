@@ -19,7 +19,7 @@
 
 I'm a **backend-focused software engineer with 6+ years of experience** building production systems that hold up under real-world load. I turn ambiguous product requirements into reliable services, APIs, data workflows, and deployment pipelines.
 
- <!-- 🔭 Currently engineering at **[@fielded](https://github.com/fielded)**, contributing to [Nigeria HealthLMIS](https://healthlmis.ng), a national healthcare supply-chain platform. -->
+ 🔭 Currently engineering at **[@fielded](https://github.com/fielded)**, contributing to [Nigeria HealthLMIS](https://healthlmis.ng), a national healthcare supply-chain platform. 
 - ⚙️ My core stack is **Node.js, NestJS, FeathersJS, Express, and TypeScript**, backed by **PostgreSQL, MongoDB, CouchDB, and Redis**.
 - 🏗️ I've architected complete backends from scratch, including real-time logistics and dispatch orchestration, asset-leasing workflows, virtual-trading and portfolio engines, payment and subscription systems, and CI/CD pipelines.
 - 🔄 I build asynchronous and event-driven systems with **Bull/BullMQ, RabbitMQ, AWS SQS, SNS, and EventBridge**.
